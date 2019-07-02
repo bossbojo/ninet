@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="794.9 470.898 26.176 26.176">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        fill: #ed1c24;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #241d4f;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="13.088" cy="13.088" r="13.088"/>
+    </clipPath>
+  </defs>
+  <g id="thailand-flag-round" transform="translate(794.9 470.898)">
+    <g id="Group_1" data-name="Group 1" class="cls-1">
+      <rect id="_x33__1_" class="cls-2" width="39.264" height="26.176" transform="translate(-6.544)"/>
+      <rect id="_x32_" class="cls-3" width="39.264" height="17.451" transform="translate(-6.544 4.363)"/>
+      <rect id="_x31_" class="cls-4" width="39.264" height="8.725" transform="translate(-6.544 8.725)"/>
+    </g>
+  </g>
+</svg>

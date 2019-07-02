@@ -4,9 +4,16 @@ import { ValidationDirective } from './lib/validation/validation.directive';
 import { NumberToThaiBahtPipe } from './lib/pipes/numbertothaibaht.pipe';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { NgxBootstrapModule } from './lib/ngx-bootstrap/ngx-bootstrap.module';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
     declarations: [
+        // components
+        NavbarComponent,
+        FooterComponent,
+
+        // pipe and directive
         NumberToThaiBahtPipe,
         ValidationDirective,
     ],
@@ -21,6 +28,10 @@ import { NgxBootstrapModule } from './lib/ngx-bootstrap/ngx-bootstrap.module';
         FormsModule,
         ReactiveFormsModule,
         NgxBootstrapModule,
+
+        // components
+        NavbarComponent,
+        FooterComponent,
 
         // pipe and directive
         NumberToThaiBahtPipe,

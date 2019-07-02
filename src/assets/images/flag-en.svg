@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1289.6 18 26.8 26.074">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        fill: #002868;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #c00;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="26.8" height="26.074" rx="13" transform="translate(4 0)"/>
+    </clipPath>
+  </defs>
+  <g id="FLAG" transform="translate(1978.6 -189)">
+    <g id="g578" class="cls-1" transform="translate(-693 207)">
+      <path id="rect124" class="cls-2" d="M0,0H59.813V26.721H0Z" transform="translate(-12.206 -0.288)"/>
+      <g id="g584" transform="translate(-12.206 -0.288)">
+        <path id="path146" class="cls-3" d="M-15,0V2.783L38.167,26.164h6.646V23.381L-8.354,0ZM44.813,0V2.783L-8.354,26.721H-15V23.937L38.167,0Z" transform="translate(15)"/>
+        <path id="path136" class="cls-3" d="M9.59,0V26.721h9.969V0ZM-15,8.907v8.907H44.813V8.907Z" transform="translate(15)"/>
+        <path id="path141" class="cls-4" d="M-15,10.577v5.567H44.813V10.577ZM11.584,0V26.721h5.981V0Z" transform="translate(15)"/>
+        <path id="path150" class="cls-4" d="M-15,26.721,4.938,17.814H9.59l-19.938,8.907ZM-15,0,4.938,8.907H.286L-15,2.227ZM20.223,8.907,40.161,0h4.652L24.876,8.907Zm24.59,17.814L24.876,17.814h4.652l15.286,6.68Z" transform="translate(15)"/>
+      </g>
+    </g>
+  </g>
+</svg>
